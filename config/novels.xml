@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<novels> 
+  <novel> 
+    <name>Beginning</name>  
+    <author>Vicky</author>  
+    <introduction>The Price tag</introduction>  
+    <catogory>1</catogory>  
+    <status>2</status>  
+    <sourceDirectory>D:/temp/Beginning.txt</sourceDirectory>  
+    <targetDirectory>Story/Martial arts/Beginning.txt</targetDirectory>  
+    <downloadTimes>7</downloadTimes>  
+    <downloadTime>2014-03-29 17:18:27</downloadTime>  
+    <updateTime>2014-03-28 17:53:04</updateTime> 
+  </novel>  
+  <novel> 
+    <name>Definition</name>  
+    <author>Ivy</author>  
+    <introduction>Life should be beautiful</introduction>  
+    <catogory>1</catogory>  
+    <status>2</status>  
+    <sourceDirectory>D:/temp/Definition.txt</sourceDirectory>  
+    <targetDirectory>Story/Martial arts/Definition.txt</targetDirectory>  
+    <downloadTimes>3</downloadTimes>  
+    <downloadTime>2014-03-28 23:42:16</downloadTime>  
+    <updateTime>2014-03-28 17:54:15</updateTime> 
+  </novel>  
+  <novel> 
+    <name>Language</name>  
+    <author>Adrian</author>  
+    <introduction>It,s Only just a dream</introduction>  
+    <catogory>2</catogory>  
+    <status>2</status>  
+    <sourceDirectory>D:/temp/Language.txt</sourceDirectory>  
+    <targetDirectory>Story/Romance/Language.txt</targetDirectory>  
+    <downloadTimes>1</downloadTimes>  
+    <downloadTime>2014-03-28 23:03:16</downloadTime>  
+    <updateTime>2014-03-28 17:55:55</updateTime> 
+  </novel>  
+  <novel> 
+    <name>School</name>  
+    <author>Jenny</author>  
+    <introduction>My finger through your hair</introduction>  
+    <catogory>2</catogory>  
+    <status>2</status>  
+    <sourceDirectory>D:/temp/School.txt</sourceDirectory>  
+    <targetDirectory>Story/Romance/School.txt</targetDirectory>  
+    <downloadTimes>1</downloadTimes>  
+    <downloadTime>2014-03-29 17:23:31</downloadTime>  
+    <updateTime>2014-03-28 17:57:52</updateTime> 
+  </novel> 
+</novels>

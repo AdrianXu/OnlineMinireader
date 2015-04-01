@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="GBK"?>
+
+<users> 
+  <user> 
+    <name>Adrian</name>  
+    <password>jEIF7DPY9srqqqDBChQTjA==</password>  
+    <status>1</status>  
+    <loginTimes>10</loginTimes>  
+    <registTime>2014-03-28 17:08:47</registTime>  
+    <lastLoginTime>2014-03-29 15:25:44</lastLoginTime>  
+    <role>0</role> 
+  </user>  
+  <user> 
+    <name>admin</name>  
+    <password>ISMvKXpXpadDiUoOSoAfww==</password>  
+    <status>1</status>  
+    <loginTimes>1</loginTimes>  
+    <registTime>2014-03-28 18:15:49</registTime>  
+    <lastLoginTime>2014-03-28 18:16:05</lastLoginTime>  
+    <role>0</role> 
+  </user>  
+  <user> 
+    <name>Tony</name>  
+    <password>3cX16G0vheGx/3Y6/xPOCg==</password>  
+    <status>1</status>  
+    <loginTimes>9</loginTimes>  
+    <registTime>2014-03-28 22:33:30</registTime>  
+    <lastLoginTime>2014-03-29 17:23:15</lastLoginTime>  
+    <role>0</role> 
+  </user>  
+  <user> 
+    <name>li</name>  
+    <password>1wweXUTeipFQ65Hs/1Y1eA==</password>  
+    <status>1</status>  
+    <loginTimes>1</loginTimes>  
+    <registTime>2014-03-29 17:17:30</registTime>  
+    <lastLoginTime>2014-03-29 17:17:36</lastLoginTime>  
+    <role>0</role> 
+  </user> 
+</users>
